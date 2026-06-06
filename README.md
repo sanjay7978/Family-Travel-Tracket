@@ -184,7 +184,7 @@ This project helped me learn:
 
 ## 👨‍💻 Author
 
-**Sanjay Repaka**
+**R Sanjay**
 
 B.Tech CSE Student | Full Stack Development Enthusiast
 
